@@ -7,7 +7,8 @@ This is a sample of IndexedDB Service written for Angular2 Typescript.
 	- This is just an example how you can create your own service and start working with IndexedDB.
 	
 2. Installation
-	- Just copy paste the Service code into your project and inject it when needed. There is also an example inclided in the repository ...
+	- Just copy paste the Service code into your project and inject it when needed. There is also an example inclided in the repository. You can run the example by following the below steps.
+	- Install the latest nodejs version.
 	- Clone the git repository
 	- Open the command window
 	- Navigate to the `example` folder
