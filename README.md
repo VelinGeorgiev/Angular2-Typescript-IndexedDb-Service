@@ -2,17 +2,18 @@
 
 This is a sample of IndexedDB Service written for Angular2 Typescript.
 	
--- How it works
-	I have created sample based on the quickstart app and have added a sample IndexedDBService just as example how you can create your ouwn service and start working with IndexedDB.
+1. How it works
+	- I have created Angularjs2 Typescript IndexedDB Service sample based. 
+	- This is just an example how you can create your own service and start working with IndexedDB.
 	
--- Installation
+2. Installation
 	- Just copy paste the Service code into your project and inject it when needed. There is also an example inclided in the repository ...
 	- Clone the git repository
 	- Open the command window
 	- Navigate to the `example` folder
 	- npm install
 	- npm run typings install
-	- gulp
+	- gulp (may throw typings errors, but will compile. Will be fixed in the next builds)
 	- npm start
 	- More information at https://angular.io/docs/ts/latest/quickstart.html
 	
